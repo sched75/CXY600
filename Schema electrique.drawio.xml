@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T06:21:41.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ePMW3SjZUR-Utqe5_OyW" version="20.6.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-01-18T06:23:36.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="g5M4Ju1R8bKaX5QQPscO" version="20.6.0" type="github" pages="8">
   <diagram id="Y-wzlb6zktlUD_ReeHV5" name="Page-2">
-    <mxGraphModel dx="2424" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2424" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Sci_5Ul2r75nfkVwW_u9" name="Main Power">
-    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kD1JD_D2SKrU9_5YlokZ" name="Electronic Power">
-    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UFw3TNgaOVQ0hVVILGy3" name="Low Power Data Ports">
-    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,7 +437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NFKbYGmJa0KUYcY5bxyI" name="Low Power Control Command">
-    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -548,7 +548,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sAKNM2TjcQl4L2n6GJuQ" name="Low Power Stepper Controls">
-    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -672,7 +672,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a1qbre1_kpfnDdtUHBoa" name="Fan &amp; Lights Power">
-    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -729,7 +729,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HEveMebSCtb9PuRSevFw" name="Fan &amp; Lights">
-    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,Y-wzlb6zktlUD_ReeHV5&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
